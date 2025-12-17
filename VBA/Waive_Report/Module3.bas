@@ -1,4 +1,3 @@
-Attribute VB_Name = "Module3"
 Sub UpdatePivotTable5In8p3k()
     Dim wsData As Worksheet
     Dim wsPivot As Worksheet
